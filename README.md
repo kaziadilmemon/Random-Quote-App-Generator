@@ -1,0 +1,3 @@
+# Random Quote Generator #
+
+The **Random Quote Generator** is a Flutter application developed as a semester project for the Mobile Application Development course. Designed to inspire users with randomly generated quotes, it allows users to save favorites, rate quotes, and share them through external apps. Using SQLite for offline storage, the app provides quick access and efficient management of quotes without internet. With a clean, responsive interface, it features a Home Screen for viewing and refreshing quotes and a Favorites Screen for rating and searching saved quotes. Key packages include SqLite for database management and Share for social sharing, making the app both functional and user-friendly.
